@@ -10,7 +10,7 @@ abstract: >-
   title.
 type: dataset
 authors:
-  - given-names: Kant
+  - given-names: Qiankang
     family-names: Wang
   - given-names: Rosie
     family-names: Lu
